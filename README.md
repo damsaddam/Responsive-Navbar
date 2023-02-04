@@ -1,6 +1,6 @@
 # A Responsive Navbar
 
-If you need a responsive navbar for your application, maybe this responsive navbar is a solution for you. Just try this, and change according to your needs. My pleasure to help you all. This navbar was made using:
+If you need a responsive navbar for your application, maybe these responsive navbar are a solution for you. Just try this, and change according to your needs. My pleasure to help you all. These navbar was made using:
 - HTML
 - CSS Flexbox
 - JavaScript
